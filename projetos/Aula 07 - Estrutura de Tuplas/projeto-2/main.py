@@ -3,3 +3,4 @@ print('Rio de Janeiro' in elementos_tupla)
 
 nomes_tupla = ('Jose', 'Carlos', 'Maria', 'Pedro', 'Maria', 'Joana', 'Maria')
 print(nomes_tupla.count('Carlos'))
+
