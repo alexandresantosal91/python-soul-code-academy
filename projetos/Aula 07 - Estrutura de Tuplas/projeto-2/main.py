@@ -1,6 +1,6 @@
-elementos_tupla = ['São Paulo', 'Belo Horizonte', 'Rio de Janeiro']
-print('Rio de Janeiro' in elementos_tupla)
+elementos_tupla = ('São Paulo', 'Belo Horizonte', 'Rio de Janeiro', 'Teresina')
+print('Manaus' in elementos_tupla)
 
 nomes_tupla = ('Jose', 'Carlos', 'Maria', 'Pedro', 'Maria', 'Joana', 'Maria')
-print(nomes_tupla.count('Carlos'))
-
+print(nomes_tupla.count('Maria'))
+print(nomes_tupla.index('Maria'))
